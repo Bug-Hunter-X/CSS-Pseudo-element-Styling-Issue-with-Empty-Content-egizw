@@ -1,0 +1,1 @@
+To fix this, you need to give the pseudo-element some content, even if it's just a non-breaking space.  Alternatively, if you're relying on dimensions for other reasons, consider using other methods such as `inline-block` or absolutely positioning the element.

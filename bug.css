@@ -1,0 +1,1 @@
+The following CSS code uses a pseudo-element (`::before`) with `content: '';` but also tries to style it with `width` and `height`.  Because the content is empty, the pseudo-element has no dimensions to style.

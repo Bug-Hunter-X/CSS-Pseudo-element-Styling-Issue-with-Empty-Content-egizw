@@ -1,0 +1,1 @@
+This repository demonstrates a common CSS bug involving styling pseudo-elements that have empty content.  The `bug.css` file shows the erroneous code, while `bugSolution.css` provides the correct solution.  The problem arises from attempting to set `width` and `height` properties on a pseudo-element whose `content` is empty, resulting in unexpected behavior.
